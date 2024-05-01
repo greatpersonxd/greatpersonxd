@@ -1,12 +1,12 @@
 
 <h3><img  style="align-item" :"center" src="https://te.legra.ph/file/606b7ea63c16f88c56a1b.jpg" width="90px" height="80%">
-   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝗢𝗫𝗬𝗚𝗘𝗡+𝐗𝐃+🖤+🥀"></b></h3>
+   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐆𝐑𝐄𝐀𝐓+𝐏𝐄𝐑𝐒𝐎𝐍+𝐗𝐃+🖤+🥀"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/PRADHAN474/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/greatpersonxd/count.svg" />
 </p>
 
-[<img src="https://graph.org/file/ae522353ddffb830dd83e.jpg"/>](https://github.com/PRADHAN474)
+[<img src="https://te.legra.ph/file/99b208ab137070d5e45e0.jpg"/>](https://github.com/PRADHAN474)
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=PRADHAN474&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Noob-Mukesh)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRADHAN474&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/PRADHAN474)
